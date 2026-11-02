@@ -1,5 +1,5 @@
 # 🌾 Farm Inventory Management System
-### Intelligent Inventory. Connected Agents. Smarter Farming.
+### Intelligent Inventory. Connected Agents. Smarter Farming..
 
 <p align="center">
 
